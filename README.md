@@ -38,8 +38,8 @@ This project is intended for demonstration purposes. While the model can make pr
 ## 💻 How to Run Locally
 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/adrikachowdhury/Irony-Detection-Twitter.git
-cd Irony-Detection-Twitter
+git clone https://github.com/adrikachowdhury/IronyScope.git
+cd IronyScope
 ```
 
 2️⃣ Install Dependencies
